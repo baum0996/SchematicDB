@@ -1,0 +1,38 @@
+{
+  "name": "EtZ Kelp T2.3",
+  "category": "farms",
+  "type": "Kelp",
+  "description": "EtZ Kelp T2.3 is a compact kelp farm and smoker system.",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "1.62m KPH (kelp), $3.24B Per Day",
+  "features": [
+    "18 Loaders Each For Blaze and Bone Blocks",
+    "2256 Smokers",
+    "Compact",
+    "Control Room",
+    "Over 7M Bone Block and Blaze Rod Storage (more than 2 days)"
+  ],
+  "credits": "<@335828728276058112> loaders and modified kelp tower, <@691217016463556618> minecart unloader, <@1195844341114089493> control room, @jesterr unloader",
+  "instructions": [
+    "Follow Instructions on Signs",
+    "Must Be 1.21.4+"
+  ],
+  "tags": [
+    "kelp",
+    "smoker",
+    "farm",
+    "1.21.4"
+  ],
+  "schematic_filename": "EtZ_Kelp_T2.3_NEW.litematic",
+  "preview_image_filename": "area_render.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546557394836914176",
+    "1546557445915025458"
+  ],
+  "channel_id": "1546552911088062524",
+  "created_at": "2026-09-07T19:06:58.066926+00:00",
+  "schematic_path": "Schematics/farms/etz-kelp-t2-3/EtZ_Kelp_T2.3_NEW.litematic",
+  "image_path": "Schematics/farms/etz-kelp-t2-3/area_render.png"
+}
