@@ -1,0 +1,33 @@
+{
+  "name": "Small cozy stash",
+  "category": "bases",
+  "type": "Stash",
+  "description": "A small cozy stash interior design featuring a wooden ceiling, hanging lanterns, and a carpeted floor with item frames.",
+  "creator": "TheTrainGuy (discord.gg/buildingstudio)",
+  "rates": null,
+  "features": [
+    "Hanging lanterns",
+    "Carpeted floor with item frames",
+    "Storage barrels",
+    "Cozy wooden ceiling"
+  ],
+  "credits": "Building Studio",
+  "instructions": [],
+  "tags": [
+    "stash",
+    "cozy",
+    "interior",
+    "storage"
+  ],
+  "schematic_filename": "Small_Cozy_Stash_-_by_TheTrainGuy.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546617319537647666"
+  ],
+  "channel_id": "1546617265535844382",
+  "created_at": "2026-09-07T20:27:23.344732+00:00",
+  "schematic_path": "Schematics/bases/small-cozy-stash/Small_Cozy_Stash_-_by_TheTrainGuy.litematic",
+  "image_path": "Schematics/bases/small-cozy-stash/image.png"
+}
