@@ -1,5 +1,15 @@
 [
   {
+    "name": "Warm spruce tavern - Made by ni3lz",
+    "category": "bases",
+    "type": "Tavern",
+    "description": "Warm spruce tavern",
+    "creator": "ni3lz",
+    "folder": "Schematics/bases/warm-spruce-tavern-made-by-ni3lz",
+    "schematic": "Warm_Spruce_Tavern_-_Made_by_Ni3lz.litematic",
+    "image": "2026-08-18_21.17.28.png"
+  },
+  {
     "name": "EtZ BoneBlockCrafter v5",
     "category": "farms",
     "type": "Bone Block Crafter",
