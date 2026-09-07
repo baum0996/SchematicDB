@@ -1,0 +1,28 @@
+{
+  "name": "Warm spruce tavern - Made by ni3lz",
+  "category": "bases",
+  "type": "Tavern",
+  "description": "Warm spruce tavern",
+  "creator": "ni3lz",
+  "rates": null,
+  "features": [],
+  "credits": null,
+  "instructions": [],
+  "tags": [
+    "spruce",
+    "tavern",
+    "warm"
+  ],
+  "schematic_filename": "Warm_Spruce_Tavern_-_Made_by_Ni3lz.litematic",
+  "preview_image_filename": "2026-08-18_21.17.28.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546615117506941099",
+    "1546615226768818368"
+  ],
+  "channel_id": "1546615010929803344",
+  "created_at": "2026-09-07T20:17:56.681591+00:00",
+  "schematic_path": "Schematics/bases/warm-spruce-tavern-made-by-ni3lz/Warm_Spruce_Tavern_-_Made_by_Ni3lz.litematic",
+  "image_path": "Schematics/bases/warm-spruce-tavern-made-by-ni3lz/2026-08-18_21.17.28.png"
+}
