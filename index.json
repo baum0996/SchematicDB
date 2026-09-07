@@ -10,6 +10,16 @@
     "image": "Unnamed-render.png"
   },
   {
+    "name": "EtZ Cobblestone v2",
+    "category": "farms",
+    "type": "Cobblestone Generator",
+    "description": "EtZ Cobblestone v2",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-cobblestone-v2",
+    "schematic": "EtZ_Cobblestone_v2.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "EtZ Kelp T1",
     "category": "farms",
     "type": "Kelp",
