@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "schematics": [
+    {
+      "id": "farm-etz-pickaxe-v1-goon-travis",
+      "name": "EtZ Pickaxe v1",
+      "path": "farm/etz-pickaxe-v1/goon-travis",
+      "category": "farm",
+      "type": "etz-pickaxe-v1",
+      "creator": "goon.travis",
+      "rates": "240k/h 8m profit",
+      "tags": [
+        "statue",
+        "etz-pickaxe-v1",
+        "pickaxe",
+        "decor",
+        "farm",
+        "spitzhacke"
+      ]
+    }
+  ]
+}
