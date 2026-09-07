@@ -30,6 +30,16 @@
     "image": "image.png"
   },
   {
+    "name": "EtZ Dispenser crafter v2",
+    "category": "farms",
+    "type": "Dispenser Crafter",
+    "description": "EtZ Dispenser crafter v2",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-dispenser-crafter-v2",
+    "schematic": "EtZ_Dispenser_Base_v2.litematic",
+    "image": "area_render_2_.png"
+  },
+  {
     "name": "EtZ Kelp T1",
     "category": "farms",
     "type": "Kelp",
