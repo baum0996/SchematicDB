@@ -18,5 +18,15 @@
     "folder": "schematics/farms/etzpickaxev1",
     "schematic": "EtZ_Pickaxe_v1.litematic",
     "image": "image.png"
+  },
+  {
+    "name": "ETZpickaxeV1",
+    "category": "farms",
+    "type": "Stone Pickaxe",
+    "description": "A compact stone pickaxe crafter with autosell and overflow protection.",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etzpickaxev1",
+    "schematic": "EtZ_Pickaxe_v1.litematic",
+    "image": "image.png"
   }
 ]
