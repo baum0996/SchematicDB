@@ -1,5 +1,15 @@
 [
   {
+    "name": "Candle Regear",
+    "category": "bases",
+    "type": "Regear Station",
+    "description": "A Candle Regear station design by L3vyT_T and ZevP3 from Building Studio.",
+    "creator": "L3vyT_T & ZevP3",
+    "folder": "Schematics/bases/candle-regear",
+    "schematic": "Candle_Regear_Degsin_By_L3vyT_T_X_ZevP3.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Warm spruce tavern - Made by ni3lz",
     "category": "bases",
     "type": "Tavern",
