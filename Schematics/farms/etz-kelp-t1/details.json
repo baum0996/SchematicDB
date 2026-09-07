@@ -1,0 +1,34 @@
+{
+  "name": "EtZ Kelp T1",
+  "category": "farms",
+  "type": "Kelp",
+  "description": "EtZ Kelp T1",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "300k KPH (kelp)",
+  "features": [
+    "Best Farm For Players Under $200m",
+    "1 Kasi DKB Loader",
+    "420 Smokers",
+    "Over 24 Hours of Bone Block/Blaze storage"
+  ],
+  "credits": "<@335828728276058112> towers, @kasi loader",
+  "instructions": [],
+  "tags": [
+    "kelp",
+    "farm",
+    "smoker",
+    "loader"
+  ],
+  "schematic_filename": "EtZ_Kelp_T1.2.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546553805053894687",
+    "1546553865355137196"
+  ],
+  "channel_id": "1546553656227405835",
+  "created_at": "2026-09-07T16:14:41.055401+00:00",
+  "schematic_path": "Schematics/farms/etz-kelp-t1/EtZ_Kelp_T1.2.litematic",
+  "image_path": "Schematics/farms/etz-kelp-t1/image.png"
+}
