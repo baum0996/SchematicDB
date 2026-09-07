@@ -1,5 +1,15 @@
 [
   {
+    "name": "EtZ Basalt v1.2",
+    "category": "farms",
+    "type": "Basalt",
+    "description": "EtZ Basalt v1.2",
+    "creator": "EtZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-basalt-v1-2",
+    "schematic": "EtZ_Basalt_v1.2_1.litematic",
+    "image": "Unnamed-render.png"
+  },
+  {
     "name": "EtZMossy Cobblestone v1.1",
     "category": "farms",
     "type": "Mossy Cobblestone",
