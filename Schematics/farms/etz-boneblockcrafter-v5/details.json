@@ -1,0 +1,33 @@
+{
+  "name": "EtZ BoneBlockCrafter v5",
+  "category": "farms",
+  "type": "Bone Block Crafter",
+  "description": "EtZ BoneBlockCrafter v5",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "5,100,000 Bone Blocks Per Hour (15.3m Bones), 1153 Crafters",
+  "features": [
+    "Compact",
+    "Control Room",
+    "12 Kasi Loaders",
+    "Best BBC on Donut"
+  ],
+  "credits": "<@1354555895316611176> control room, Kasi loaders",
+  "instructions": [],
+  "tags": [
+    "bone block",
+    "crafter",
+    "redstone"
+  ],
+  "schematic_filename": "EtZ_BBC_v5.2.litematic",
+  "preview_image_filename": "area_render.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546557012526243932",
+    "1546557053034565633"
+  ],
+  "channel_id": "1546553186314223666",
+  "created_at": "2026-09-07T19:16:59.041207+00:00",
+  "schematic_path": "Schematics/farms/etz-boneblockcrafter-v5/EtZ_BBC_v5.2.litematic",
+  "image_path": "Schematics/farms/etz-boneblockcrafter-v5/area_render.png"
+}
