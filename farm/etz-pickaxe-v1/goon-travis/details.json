@@ -1,0 +1,36 @@
+{
+  "name": "EtZ Pickaxe v1",
+  "creator": "goon.travis",
+  "designer": "goon.travis",
+  "category": "farm",
+  "type": "etz-pickaxe-v1",
+  "description": "ETZPickaxeV1",
+  "rates": "240k/h 8m profit",
+  "features": [],
+  "credits": "ETZ .gg/etzempire",
+  "instructions": [],
+  "tags": [
+    "statue",
+    "etz-pickaxe-v1",
+    "pickaxe",
+    "decor",
+    "farm",
+    "spitzhacke"
+  ],
+  "files": {
+    "schematic": "EtZ_Pickaxe_v1.litematic",
+    "images": [
+      "image.png"
+    ]
+  },
+  "source": {
+    "discord_server_id": "1546477651940614174",
+    "discord_channel_id": "1546477652473544836",
+    "source_message_ids": [
+      "1546502522384941109",
+      "1546502594757795980"
+    ],
+    "uploaded_by": "goon.travis",
+    "uploaded_by_id": "1394748492240650342"
+  }
+}
