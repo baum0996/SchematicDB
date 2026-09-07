@@ -1,93 +1,12 @@
 [
   {
-    "name": "EtZ Basalt v1.2",
+    "name": "EtZ BoneBlockCrafter v5",
     "category": "farms",
-    "type": "Basalt",
-    "description": "EtZ Basalt v1.2",
-    "creator": "EtZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-basalt-v1-2",
-    "schematic": "EtZ_Basalt_v1.2_1.litematic",
-    "image": "Unnamed-render.png"
-  },
-  {
-    "name": "EtZ Bonemeal v1",
-    "category": "farms",
-    "type": "Bonemeal",
-    "description": "EtZ Bonemeal v1",
+    "type": "Bone Block Crafter",
+    "description": "EtZ BoneBlockCrafter v5",
     "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-bonemeal-v1",
-    "schematic": "EtZ_Bonemeal_v1.litematic",
-    "image": "area_render_1_.png"
-  },
-  {
-    "name": "EtZ Cobblestone v2",
-    "category": "farms",
-    "type": "Cobblestone Generator",
-    "description": "EtZ Cobblestone v2",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-cobblestone-v2",
-    "schematic": "EtZ_Cobblestone_v2.litematic",
-    "image": "image.png"
-  },
-  {
-    "name": "EtZ Dispenser crafter v2",
-    "category": "farms",
-    "type": "Dispenser Crafter",
-    "description": "EtZ Dispenser crafter v2",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-dispenser-crafter-v2",
-    "schematic": "EtZ_Dispenser_Base_v2.litematic",
-    "image": "area_render_2_.png"
-  },
-  {
-    "name": "EtZ Kelp T1",
-    "category": "farms",
-    "type": "Kelp",
-    "description": "EtZ Kelp T1",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-kelp-t1",
-    "schematic": "EtZ_Kelp_T1.2.litematic",
-    "image": "image.png"
-  },
-  {
-    "name": "EtZ Kelp T2.3",
-    "category": "farms",
-    "type": "Kelp",
-    "description": "EtZ Kelp T2.3 is a compact kelp farm and smoker system.",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-kelp-t2-3",
-    "schematic": "EtZ_Kelp_T2.3_NEW.litematic",
+    "folder": "Schematics/farms/etz-boneblockcrafter-v5",
+    "schematic": "EtZ_BBC_v5.2.litematic",
     "image": "area_render.png"
-  },
-  {
-    "name": "EtZ Kelp T3",
-    "category": "farms",
-    "type": "Kelp",
-    "description": "EtZ Kelp T3 is a high-capacity kelp farm featuring extensive smoker and hopper arrays, along with dedicated storage for blaze and bone blocks.",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etz-kelp-t3",
-    "schematic": "EtZ_Kelp_T3.1.litematic",
-    "image": "image.png"
-  },
-  {
-    "name": "EtZMossy Cobblestone v1.1",
-    "category": "farms",
-    "type": "Mossy Cobblestone",
-    "description": "EtZMossy Cobblestone v1.1",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "Schematics/farms/etzmossy-cobblestone-v1-1",
-    "schematic": "EtZ_Mossy_Cobble_v1.1.litematic",
-    "image": "Unnamed-render.png"
-  },
-  {
-    "name": "ETZpickaxeV1",
-    "category": "farms",
-    "type": "Stone Pickaxe Crafter",
-    "description": "A compact stone pickaxe crafter featuring autosell and overflow protection.",
-    "creator": "ETZ discord.gg/etzempire",
-    "folder": "farms/etzpickaxev1",
-    "schematic": "EtZ_Pickaxe_v1.litematic",
-    "image": "image.png"
-  },
-
+  }
 ]
