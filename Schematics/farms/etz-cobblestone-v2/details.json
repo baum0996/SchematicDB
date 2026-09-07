@@ -1,0 +1,28 @@
+{
+  "name": "EtZ Cobblestone v2",
+  "category": "farms",
+  "type": "Cobblestone Generator",
+  "description": "EtZ Cobblestone v2",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "4.4m Cobblestone Per Hour, 28k TNT Per Hour, 150 Cobblestone Per TNT",
+  "features": [],
+  "credits": "@haohandhy (original module), @kasi (loader)",
+  "instructions": [],
+  "tags": [
+    "cobblestone",
+    "generator",
+    "tnt"
+  ],
+  "schematic_filename": "EtZ_Cobblestone_v2.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546557636009267354",
+    "1546557703655006219"
+  ],
+  "channel_id": "1546552630250176542",
+  "created_at": "2026-09-07T19:00:07.548830+00:00",
+  "schematic_path": "Schematics/farms/etz-cobblestone-v2/EtZ_Cobblestone_v2.litematic",
+  "image_path": "Schematics/farms/etz-cobblestone-v2/image.png"
+}
