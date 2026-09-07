@@ -1,0 +1,37 @@
+{
+  "name": "ETZpickaxeV1",
+  "category": "farms",
+  "type": "Stone Pickaxe",
+  "description": "A compact stone pickaxe crafter with autosell and overflow protection.",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "240k Stone Pickaxes/h (~$8m Profit/h)",
+  "features": [
+    "Autosell",
+    "Overflow Protection",
+    "Compact"
+  ],
+  "credits": "Idea by <@944732283368255488> (discord @)",
+  "instructions": [
+    "Throw logs into the inner water stream",
+    "Input cobblestone into the outer water stream",
+    "Flick lever to start"
+  ],
+  "tags": [
+    "pickaxe",
+    "stone pickaxe",
+    "crafter",
+    "autosell"
+  ],
+  "schematic_filename": "EtZ_Pickaxe_v1.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546502522384941109",
+    "1546502594757795980"
+  ],
+  "channel_id": "1546477652473544836",
+  "created_at": "2026-09-07T15:39:43.452639+00:00",
+  "schematic_path": "Schematics/farms/etzpickaxev1/EtZ_Pickaxe_v1.litematic",
+  "image_path": "Schematics/farms/etzpickaxev1/image.png"
+}
