@@ -1,0 +1,31 @@
+{
+  "name": "EtZ Tileable Cobble v4",
+  "category": "farms",
+  "type": "Cobblestone",
+  "description": "EtZ Tileable Cobble v4",
+  "creator": "NachoCS and Sam (discord.gg/etzempire",
+  "rates": "232k Cobblestone/h/module\n$5.5m Profit/h/module",
+  "features": [
+    "Tileable",
+    "Loader included"
+  ],
+  "credits": "NachoCS and Sam: module\n<@1354555895316611176> : loader",
+  "instructions": [],
+  "tags": [
+    "cobblestone",
+    "farm",
+    "tileable"
+  ],
+  "schematic_filename": "EtZ_Tileable_Cobble_v4.litematic",
+  "preview_image_filename": "Unnamed-render.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546601041112465439",
+    "1546601089875451984"
+  ],
+  "channel_id": "1546550930982305812",
+  "created_at": "2026-09-07T19:22:14.524335+00:00",
+  "schematic_path": "Schematics/farms/etz-tileable-cobble-v4/EtZ_Tileable_Cobble_v4.litematic",
+  "image_path": "Schematics/farms/etz-tileable-cobble-v4/Unnamed-render.png"
+}
