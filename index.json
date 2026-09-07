@@ -10,6 +10,16 @@
     "image": "Unnamed-render.png"
   },
   {
+    "name": "EtZ Bonemeal v1",
+    "category": "farms",
+    "type": "Bonemeal",
+    "description": "EtZ Bonemeal v1",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-bonemeal-v1",
+    "schematic": "EtZ_Bonemeal_v1.litematic",
+    "image": "area_render_1_.png"
+  },
+  {
     "name": "EtZ Cobblestone v2",
     "category": "farms",
     "type": "Cobblestone Generator",
