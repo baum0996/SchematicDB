@@ -10,6 +10,16 @@
     "image": "image.png"
   },
   {
+    "name": "Small cozy stash",
+    "category": "bases",
+    "type": "Stash",
+    "description": "A small cozy stash interior design featuring a wooden ceiling, hanging lanterns, and a carpeted floor with item frames.",
+    "creator": "TheTrainGuy (discord.gg/buildingstudio)",
+    "folder": "Schematics/bases/small-cozy-stash",
+    "schematic": "Small_Cozy_Stash_-_by_TheTrainGuy.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Warm spruce tavern - Made by ni3lz",
     "category": "bases",
     "type": "Tavern",
