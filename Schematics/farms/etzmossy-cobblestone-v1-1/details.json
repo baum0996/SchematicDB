@@ -1,0 +1,33 @@
+{
+  "name": "EtZMossy Cobblestone v1.1",
+  "category": "farms",
+  "type": "Mossy Cobblestone",
+  "description": "EtZMossy Cobblestone v1.1",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "600k Mossy Cobblestone/h",
+  "features": [
+    "Autosell",
+    "Unload resistant"
+  ],
+  "credits": "haohandhy, midas",
+  "instructions": [
+    "Flick lever to start farm",
+    "Drop moss into water stream"
+  ],
+  "tags": [
+    "mossy cobblestone",
+    "farm"
+  ],
+  "schematic_filename": "EtZ_Mossy_Cobble_v1.1.litematic",
+  "preview_image_filename": "Unnamed-render.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546549894280519800",
+    "1546549950735982723"
+  ],
+  "channel_id": "1546477652473544836",
+  "created_at": "2026-09-07T15:58:33.977357+00:00",
+  "schematic_path": "Schematics/farms/etzmossy-cobblestone-v1-1/EtZ_Mossy_Cobble_v1.1.litematic",
+  "image_path": "Schematics/farms/etzmossy-cobblestone-v1-1/Unnamed-render.png"
+}
