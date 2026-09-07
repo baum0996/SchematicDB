@@ -20,6 +20,16 @@
     "image": "image.png"
   },
   {
+    "name": "EtZ Tileable Cobble v4",
+    "category": "farms",
+    "type": "Cobblestone",
+    "description": "EtZ Tileable Cobble v4",
+    "creator": "NachoCS and Sam (discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-tileable-cobble-v4",
+    "schematic": "EtZ_Tileable_Cobble_v4.litematic",
+    "image": "Unnamed-render.png"
+  },
+  {
     "name": "EtZ Tileable Kelp Module v2",
     "category": "farms",
     "type": "Kelp",
