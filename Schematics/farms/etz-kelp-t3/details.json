@@ -1,0 +1,38 @@
+{
+  "name": "EtZ Kelp T3",
+  "category": "farms",
+  "type": "Kelp",
+  "description": "EtZ Kelp T3 is a high-capacity kelp farm featuring extensive smoker and hopper arrays, along with dedicated storage for blaze and bone blocks.",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "2.4m KPH (kelp)",
+  "features": [
+    "16 Kasi Bone Bloc Loaders",
+    "15 Kasi Blaze Loaders",
+    "1 Kasi DKB Loader",
+    "3360 Smokers",
+    "8001 Hoppers",
+    "20 Hours Blaze Storage",
+    "40 Hours Bone Block Storage"
+  ],
+  "credits": "<@335828728276058112> towers and unloader, @lox unloader, @kasi loader",
+  "instructions": [],
+  "tags": [
+    "kelp",
+    "smoker",
+    "loader",
+    "bone block",
+    "blaze"
+  ],
+  "schematic_filename": "EtZ_Kelp_T3.1.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546554425726738542",
+    "1546554460443119707"
+  ],
+  "channel_id": "1546553575516278795",
+  "created_at": "2026-09-07T16:19:51.462241+00:00",
+  "schematic_path": "Schematics/farms/etz-kelp-t3/EtZ_Kelp_T3.1.litematic",
+  "image_path": "Schematics/farms/etz-kelp-t3/image.png"
+}
