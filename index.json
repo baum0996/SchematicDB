@@ -1,5 +1,15 @@
 [
   {
+    "name": "Blue regear",
+    "category": "bases",
+    "type": "Regear Room",
+    "description": "A blue-themed regear room interior build featuring warped and prismarine blocks, wooden floors, barrels, and decorative plants.",
+    "creator": "Hyebazox_cdrug (discord.gg/buildingstudio)",
+    "folder": "Schematics/bases/blue-regear",
+    "schematic": "Blue_Regear_by_Hyebazox_cdrug.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Candle Regear",
     "category": "bases",
     "type": "Regear Station",
