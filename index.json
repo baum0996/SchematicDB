@@ -20,6 +20,16 @@
     "image": "image.png"
   },
   {
+    "name": "EtZ Kelp T3",
+    "category": "farms",
+    "type": "Kelp",
+    "description": "EtZ Kelp T3 is a high-capacity kelp farm featuring extensive smoker and hopper arrays, along with dedicated storage for blaze and bone blocks.",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-kelp-t3",
+    "schematic": "EtZ_Kelp_T3.1.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "EtZMossy Cobblestone v1.1",
     "category": "farms",
     "type": "Mossy Cobblestone",
