@@ -1,5 +1,15 @@
 [
   {
+    "name": "EtZMossy Cobblestone v1.1",
+    "category": "farms",
+    "type": "Mossy Cobblestone",
+    "description": "EtZMossy Cobblestone v1.1",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etzmossy-cobblestone-v1-1",
+    "schematic": "EtZ_Mossy_Cobble_v1.1.litematic",
+    "image": "Unnamed-render.png"
+  },
+  {
     "name": "ETZpickaxeV1",
     "category": "farms",
     "type": "Stone Pickaxe Crafter",
