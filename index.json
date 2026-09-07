@@ -18,5 +18,15 @@
     "folder": "Schematics/farms/etz-cobblestone-v1",
     "schematic": "EtZ_Cobblestone_v1_fixed.litematic",
     "image": "image.png"
+  },
+  {
+    "name": "EtZ Tileable Kelp Module v2",
+    "category": "farms",
+    "type": "Kelp",
+    "description": "EtZ Tileable Kelp Module v2.",
+    "creator": "EtZ disocrd.gg/etzempire",
+    "folder": "Schematics/farms/etz-tileable-kelp-module-v2",
+    "schematic": "EtZ_Tileable_Kelp_v2.2.litematic",
+    "image": "image.png"
   }
 ]
