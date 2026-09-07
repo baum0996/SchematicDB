@@ -8,5 +8,15 @@
     "folder": "Schematics/farms/etz-boneblockcrafter-v5",
     "schematic": "EtZ_BBC_v5.2.litematic",
     "image": "area_render.png"
+  },
+  {
+    "name": "EtZ Cobblestone v1",
+    "category": "farms",
+    "type": "Cobblestone Farm",
+    "description": "EtZ Cobblestone v1",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-cobblestone-v1",
+    "schematic": "EtZ_Cobblestone_v1_fixed.litematic",
+    "image": "image.png"
   }
 ]
