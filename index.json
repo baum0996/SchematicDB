@@ -40,6 +40,16 @@
     "image": "image.png"
   },
   {
+    "name": "EtZ Kelp T2.3",
+    "category": "farms",
+    "type": "Kelp",
+    "description": "EtZ Kelp T2.3 is a compact kelp farm and smoker system.",
+    "creator": "ETZ discord.gg/etzempire",
+    "folder": "Schematics/farms/etz-kelp-t2-3",
+    "schematic": "EtZ_Kelp_T2.3_NEW.litematic",
+    "image": "area_render.png"
+  },
+  {
     "name": "EtZ Kelp T3",
     "category": "farms",
     "type": "Kelp",
