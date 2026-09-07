@@ -1,2 +1,4 @@
 # SchematicDB
-Big reposity of schematics
+
+This is a cooool database for schematics from discord servers / websites 
+All schematics have credits and links.
