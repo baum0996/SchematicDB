@@ -1,0 +1,34 @@
+{
+  "name": "EtZ Bonemeal v1",
+  "category": "farms",
+  "type": "Bonemeal",
+  "description": "EtZ Bonemeal v1",
+  "creator": "ETZ discord.gg/etzempire",
+  "rates": "55K Bonemeal PH\n6000 Bone Blocks PH",
+  "features": [
+    "Infinite AFK",
+    "Sick Control Room",
+    "Compact, Fast, Unload Resistant Design"
+  ],
+  "credits": "216 original module",
+  "instructions": [
+    "Place Stack of Bonemeal Into Each Dispenser",
+    "Flick Lever"
+  ],
+  "tags": [
+    "bonemeal",
+    "bone blocks"
+  ],
+  "schematic_filename": "EtZ_Bonemeal_v1.litematic",
+  "preview_image_filename": "area_render_1_.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546557528803119104",
+    "1546557575871332363"
+  ],
+  "channel_id": "1546552823104151642",
+  "created_at": "2026-09-07T19:05:52.545001+00:00",
+  "schematic_path": "Schematics/farms/etz-bonemeal-v1/EtZ_Bonemeal_v1.litematic",
+  "image_path": "Schematics/farms/etz-bonemeal-v1/area_render_1_.png"
+}
