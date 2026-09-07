@@ -1,0 +1,36 @@
+{
+  "name": "EtZ Tileable Kelp Module v2",
+  "category": "farms",
+  "type": "Kelp",
+  "description": "EtZ Tileable Kelp Module v2.",
+  "creator": "EtZ disocrd.gg/etzempire",
+  "rates": "81k KPH per slice",
+  "features": [
+    "Only 18 blocks tall",
+    "Tileable"
+  ],
+  "credits": "<@335828728276058112> for the idea",
+  "instructions": [
+    "replace wool with hoppers and storage",
+    "needs 2k smokers",
+    "slice means each one wide section"
+  ],
+  "tags": [
+    "kelp",
+    "tileable",
+    "donutsmp",
+    "farm"
+  ],
+  "schematic_filename": "EtZ_Tileable_Kelp_v2.2.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1546554596384837796",
+    "1546554640412450958"
+  ],
+  "channel_id": "1546553461523488889",
+  "created_at": "2026-09-07T19:19:28.006986+00:00",
+  "schematic_path": "Schematics/farms/etz-tileable-kelp-module-v2/EtZ_Tileable_Kelp_v2.2.litematic",
+  "image_path": "Schematics/farms/etz-tileable-kelp-module-v2/image.png"
+}
