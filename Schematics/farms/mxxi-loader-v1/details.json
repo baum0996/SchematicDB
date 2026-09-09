@@ -1,0 +1,26 @@
+{
+  "name": "Mxxi Loader v1",
+  "category": "farms",
+  "type": "Shulker Box Loader",
+  "description": "Mxxi Loader V1, a compact shulker box loader.",
+  "creator": "VoidView (discord.gg/voidview)",
+  "rates": null,
+  "features": [],
+  "credits": "@Mxxi",
+  "instructions": [],
+  "tags": [
+    "loader",
+    "shulker box loader"
+  ],
+  "schematic_filename": "MxxiLoaderV1.litematic",
+  "preview_image_filename": "MxxiLoaderV1.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1547190753543979018"
+  ],
+  "channel_id": "1547190717669965834",
+  "created_at": "2026-09-09T10:32:35.913331+00:00",
+  "schematic_path": "Schematics/farms/mxxi-loader-v1/MxxiLoaderV1.litematic",
+  "image_path": "Schematics/farms/mxxi-loader-v1/MxxiLoaderV1.png"
+}
