@@ -297,5 +297,15 @@
     "folder": "Schematics/farms/etzpickaxev1",
     "schematic": "EtZ_Pickaxe_v1.litematic",
     "image": "image.png"
+  },
+  {
+    "name": "Team pearl base",
+    "category": "farms",
+    "type": "Pearl Base",
+    "description": "A team pearl base featuring multiple ender pearl stasis chambers decorated with a stone and wood aesthetic, complete with hanging leaves and an Eye of Ender design.",
+    "creator": "Building Studio (https://discord.gg/buildingstudio)",
+    "folder": "Schematics/farms/team-pearl-base",
+    "schematic": "ChoiceZZZ_team_pearl_base-redstone_by_zambezizz.litematic",
+    "image": "image.png"
   }
 ]
