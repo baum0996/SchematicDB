@@ -30,6 +30,16 @@
     "image": "image.png"
   },
   {
+    "name": "pearl / stash",
+    "category": "bases",
+    "type": "Pearl Stash",
+    "description": "A Pearl stash build featuring storage chests, armor stand displays, and pearl chambers.",
+    "creator": "Build studios (discord.gg/buildingstudio)",
+    "folder": "Schematics/bases/pearl-stash",
+    "schematic": "Pearlstash-made_by_ChoiceZZZ_and_Huggie.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Small cozy stash",
     "category": "bases",
     "type": "Stash",
