@@ -299,6 +299,16 @@
     "image": "image.png"
   },
   {
+    "name": "Mxxi Loader v1",
+    "category": "farms",
+    "type": "Shulker Box Loader",
+    "description": "Mxxi Loader V1, a compact shulker box loader.",
+    "creator": "VoidView (discord.gg/voidview)",
+    "folder": "Schematics/farms/mxxi-loader-v1",
+    "schematic": "MxxiLoaderV1.litematic",
+    "image": "MxxiLoaderV1.png"
+  },
+  {
     "name": "Ritzz Kelp Module V4.2",
     "category": "farms",
     "type": "Kelp",
