@@ -60,6 +60,16 @@
     "image": "2026-08-18_21.17.28.png"
   },
   {
+    "name": "160 Villager trading hall",
+    "category": "farms",
+    "type": "Villager Trading Hall",
+    "description": "A villager trading hall designed to accommodate 160 villagers, featuring individual trading stations and integrated redstone/hopper systems.",
+    "creator": "VoidView (discord.gg/voidview)",
+    "folder": "Schematics/farms/160-villager-trading-hall",
+    "schematic": "160VillagerTrader.litematic",
+    "image": "2026-09-05_16.24.09.png"
+  },
+  {
     "name": "EtZ Basalt v1.2",
     "category": "farms",
     "type": "Basalt",
