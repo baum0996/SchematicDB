@@ -299,6 +299,16 @@
     "image": "image.png"
   },
   {
+    "name": "Ritzz Kelp Module V4.2",
+    "category": "farms",
+    "type": "Kelp",
+    "description": "Ritzz Kelp Module V4.2 is a highly compact, tileable kelp farm module.",
+    "creator": "VoidView (discord.gg/voidview)",
+    "folder": "Schematics/farms/ritzz-kelp-module-v4-2",
+    "schematic": "Ritzzzz_Kelp_Module_v4.2.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Simple Berry v1",
     "category": "farms",
     "type": "Sweet Berry",
