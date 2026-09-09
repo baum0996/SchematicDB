@@ -299,6 +299,16 @@
     "image": "image.png"
   },
   {
+    "name": "Simple Berry v1",
+    "category": "farms",
+    "type": "Sweet Berry",
+    "description": "A high-efficiency sweet berry farm featuring a sell axe, storage, bone block reuse, and shulkers.",
+    "creator": "VoidView (discord.gg/voidView)",
+    "folder": "Schematics/farms/simple-berry-v1",
+    "schematic": "SimpleBerry_V1sell_axe_storage-reuse_bb_shulkers.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Team pearl base",
     "category": "farms",
     "type": "Pearl Base",
