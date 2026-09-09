@@ -1,0 +1,31 @@
+{
+  "name": "Lush Cave stash / regear",
+  "category": "bases",
+  "type": "Litematic",
+  "description": "A Lush Cave stash and regear base featuring storage.",
+  "creator": "<@1480928323633680535>",
+  "rates": null,
+  "features": [
+    "Storage area with chests and barrels",
+    "Regear / armor setup"
+  ],
+  "credits": "Building Studio (https://discord.gg/buildingstudio)",
+  "instructions": [],
+  "tags": [
+    "lush cave",
+    "stash",
+    "regear",
+    "base"
+  ],
+  "schematic_filename": "R1L3YS_LUSH_CAVE_1.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1547184588697239592"
+  ],
+  "channel_id": "1547184536331227136",
+  "created_at": "2026-09-09T10:03:36.204165+00:00",
+  "schematic_path": "Schematics/bases/lush-cave-stash-regear/R1L3YS_LUSH_CAVE_1.litematic",
+  "image_path": "Schematics/bases/lush-cave-stash-regear/image.png"
+}
