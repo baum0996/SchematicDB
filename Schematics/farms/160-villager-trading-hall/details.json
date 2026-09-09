@@ -1,0 +1,31 @@
+{
+  "name": "160 Villager trading hall",
+  "category": "farms",
+  "type": "Villager Trading Hall",
+  "description": "A villager trading hall designed to accommodate 160 villagers, featuring individual trading stations and integrated redstone/hopper systems.",
+  "creator": "VoidView (discord.gg/voidview)",
+  "rates": null,
+  "features": [
+    "160 villager capacity",
+    "Individual trading stations with levers",
+    "Integrated item transport and storage system"
+  ],
+  "credits": "<@1170677424476913706>",
+  "instructions": [],
+  "tags": [
+    "villager trading hall",
+    "trading hall",
+    "villager"
+  ],
+  "schematic_filename": "160VillagerTrader.litematic",
+  "preview_image_filename": "2026-09-05_16.24.09.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1547191112412823552"
+  ],
+  "channel_id": "1547191057182101617",
+  "created_at": "2026-09-09T10:35:39.276603+00:00",
+  "schematic_path": "Schematics/farms/160-villager-trading-hall/160VillagerTrader.litematic",
+  "image_path": "Schematics/farms/160-villager-trading-hall/2026-09-05_16.24.09.png"
+}
