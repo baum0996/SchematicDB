@@ -20,6 +20,16 @@
     "image": "image.png"
   },
   {
+    "name": "Lush Cave stash / regear",
+    "category": "bases",
+    "type": "Litematic",
+    "description": "A Lush Cave stash and regear base featuring storage.",
+    "creator": "<@1480928323633680535>",
+    "folder": "Schematics/bases/lush-cave-stash-regear",
+    "schematic": "R1L3YS_LUSH_CAVE_1.litematic",
+    "image": "image.png"
+  },
+  {
     "name": "Small cozy stash",
     "category": "bases",
     "type": "Stash",
