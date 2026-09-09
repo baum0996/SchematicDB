@@ -1,0 +1,36 @@
+{
+  "name": "Team pearl base",
+  "category": "farms",
+  "type": "Pearl Base",
+  "description": "A team pearl base featuring multiple ender pearl stasis chambers decorated with a stone and wood aesthetic, complete with hanging leaves and an Eye of Ender design.",
+  "creator": "Building Studio (https://discord.gg/buildingstudio)",
+  "rates": null,
+  "features": [
+    "Multiple ender pearl stasis chambers",
+    "Stone and wood aesthetic",
+    "Hanging leaves decoration",
+    "Eye of Ender wall design"
+  ],
+  "credits": "Building Studio (https://discord.gg/buildingstudio)",
+  "instructions": [
+    "Stand on the stair and throw ender pearl in water"
+  ],
+  "tags": [
+    "pearl base",
+    "ender pearl",
+    "stasis chamber",
+    "redstone",
+    "building studio"
+  ],
+  "schematic_filename": "ChoiceZZZ_team_pearl_base-redstone_by_zambezizz.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1547184090938085457"
+  ],
+  "channel_id": "1547184050374971422",
+  "created_at": "2026-09-09T10:10:26.809222+00:00",
+  "schematic_path": "Schematics/farms/team-pearl-base/ChoiceZZZ_team_pearl_base-redstone_by_zambezizz.litematic",
+  "image_path": "Schematics/farms/team-pearl-base/image.png"
+}
