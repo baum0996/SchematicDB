@@ -1,0 +1,33 @@
+{
+  "name": "pearl / stash",
+  "category": "bases",
+  "type": "Pearl Stash",
+  "description": "A Pearl stash build featuring storage chests, armor stand displays, and pearl chambers.",
+  "creator": "Build studios (discord.gg/buildingstudio)",
+  "rates": null,
+  "features": [
+    "Storage chests",
+    "Pearl chamber",
+    "Armor stand display",
+    "Note block triggers"
+  ],
+  "credits": "ChoiceZZZ & Huggiepvp",
+  "instructions": [],
+  "tags": [
+    "pearl stash",
+    "storage",
+    "utility",
+    "building studio"
+  ],
+  "schematic_filename": "Pearlstash-made_by_ChoiceZZZ_and_Huggie.litematic",
+  "preview_image_filename": "image.png",
+  "uploaded_by": "goon.travis",
+  "uploaded_by_id": "1394748492240650342",
+  "source_message_ids": [
+    "1547184282391289947"
+  ],
+  "channel_id": "1547184241769578536",
+  "created_at": "2026-09-09T10:08:13.528509+00:00",
+  "schematic_path": "Schematics/bases/pearl-stash/Pearlstash-made_by_ChoiceZZZ_and_Huggie.litematic",
+  "image_path": "Schematics/bases/pearl-stash/image.png"
+}
